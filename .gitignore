@@ -1,5 +1,5 @@
 nginx/
 ansible/playbooks/redis.yml 
 ansible/playbooks/script.yml 
-ansible/playbooks/zabbix_agent.yml
+ansible/playbooks/zabbix.yml
 ansible/common/files/
