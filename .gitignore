@@ -1,5 +1,3 @@
 nginx/
-ansible/playbooks/redis.yml 
-ansible/playbooks/script.yml 
-ansible/playbooks/zabbix.yml
-ansible/common/files/id_rsa.pub
+ansible/playbooks/script.yml
+ansible/common/files/testweb.sh
